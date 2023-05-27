@@ -1,14 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="24/7" tvg-logo="http://x.playerlatino.live/alf.png",Alf | 24/7
-http://premiumultra.xyz:8080/35depe98ke23ne76/m72me52wu32m/9933
-#EXTINF:-1 group-title="24/7" tvg-logo="https://i.imgur.com/inXbFqE.png",El Chavo Animado | 24/7
-http://premiumultra.xyz:8080/35depe98ke23ne76/m72me52wu32m/170912
-#EXTINF:-1 group-title="24/7" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/760449bd-621b-4777-b7bc-9fde4d1f27cb-profile_image-70x70.png",El Chapulin Colorado | 24/7
-http://premiumultra.xyz:8080/35depe98ke23ne76/m72me52wu32m/13868
-#EXTINF:-1 group-title="24/7" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9baab2e-d824-42eb-8d7f-32e309a46b95-profile_image-70x70.png",Futurama | 24/7
-http://premiumultra.xyz:8080/35depe98ke23ne76/m72me52wu32m/67796
-#EXTINF:-1 group-title="24/7" tvg-logo="https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg",Los Simpsons | 24/7
-http://premiumultra.xyz:8080/35depe98ke23ne76/m72me52wu32m/13848
+
 #EXTINF:-1 group-title="Animé & Gaming" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png",Pluto TV Anime
 https://i.mjh.nz/PlutoTV/5dcde17bf6591d0009839e02-alt.m3u8
 #EXTINF:-1 group-title="Animé & Gaming" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png",Pluto TV Animé Acción
